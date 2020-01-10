@@ -32,7 +32,7 @@ google_analitycs_id = "Your ID"
 home = "Home"
 logo = "images/cropped-pen_tool.png"
 [params.banner]
-bgImage = "images/banner/euway.jpeg"
+bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
 title = "Writer, Blogger, Activist"
 [params.cta]
