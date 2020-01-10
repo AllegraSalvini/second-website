@@ -33,7 +33,7 @@ home = "Home"
 logo = "images/cropped-pen_tool.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
+image = "images/banner/euway.jpeg"
 title = "Writer, Blogger, Activist"
 [params.cta]
 description = "Here my main events and book presentation schedule "
