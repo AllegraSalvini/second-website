@@ -36,10 +36,10 @@ bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
 title = "Writer, Blogger, Activist"
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+description = "Here my main events and book presentation schedule "
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+title = "Events"
 [params.cta.button]
 enable = true
 label = "Visit Here"
