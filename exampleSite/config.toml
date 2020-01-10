@@ -65,7 +65,7 @@ preloader = "Peace-symbol.png"
 enable = true
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/allegra.salvini"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
