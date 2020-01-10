@@ -70,8 +70,5 @@ link = "https://www.facebook.com/allegra.salvini"
 icon = "ti-twitter-alt"
 link = "https://twitter.com/allegrasalvini"
 [[params.social]]
-icon = "ti-github"
-link = "#"
-[[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/allegra-salvini-2ab222151/?originalSubdomain=it"
